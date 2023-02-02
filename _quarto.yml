@@ -15,7 +15,7 @@ format:
     toc-depth: 4
 
 website:
-  title: "nbdev_cards"
+  title: "nbdev-cards"
   site-url: "https://rleyvasal.github.io/nbdev_cards"
   description: "Sample to create deck of cards library using nbdev"
   twitter-card: true
