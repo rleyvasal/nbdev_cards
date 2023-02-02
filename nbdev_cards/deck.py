@@ -14,3 +14,10 @@ class Deck:
     def __str__(self): return '; '.join(map(str, self.cards))
     def __contains__(self,card): return card in self.cards
     __repr__=__str__ 
+
+# %% ../01_deck.ipynb 14
+@patch
+def pop(self:Deck,
+        idx:int=- 1): # The index of card to remove, default to last one
+        " Remove one card from deck"
+        return self.cards.pop(idx)

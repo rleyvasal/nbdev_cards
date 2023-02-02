@@ -16,4 +16,5 @@ d = { 'settings': { 'branch': 'master',
                                   'nbdev_cards.deck.Deck.__contains__': ('deck.html#__contains__', 'nbdev_cards/deck.py'),
                                   'nbdev_cards.deck.Deck.__init__': ('deck.html#__init__', 'nbdev_cards/deck.py'),
                                   'nbdev_cards.deck.Deck.__len__': ('deck.html#__len__', 'nbdev_cards/deck.py'),
-                                  'nbdev_cards.deck.Deck.__str__': ('deck.html#__str__', 'nbdev_cards/deck.py')}}}
+                                  'nbdev_cards.deck.Deck.__str__': ('deck.html#__str__', 'nbdev_cards/deck.py'),
+                                  'nbdev_cards.deck.Deck.pop': ('deck.html#deck.pop', 'nbdev_cards/deck.py')}}}
